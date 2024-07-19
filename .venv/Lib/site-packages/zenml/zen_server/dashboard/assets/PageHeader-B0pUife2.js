@@ -1,0 +1,1 @@
+import{j as a}from"./@tanstack-CEbkxrhX.js";import{s as m}from"./index-BawkpTlr.js";function p({children:r,className:e,...o}){return a.jsx("div",{...o,className:m("border-b border-theme-border-moderate bg-theme-surface-primary px-5 py-3",e),children:r})}export{p as P};
